@@ -35,6 +35,10 @@ nav{
     background-color: orangered;
     color: white;
 }
+main{
+    height: 400px;
+    position: relative;
+}
 main h1{
     font-size: 180px;
     position: absolute;
@@ -64,10 +68,10 @@ img{
 #img3{
     transform: translate(-50%,-50%) rotate(-10deg);
 }
-footer{
+/* footer{
     position: absolute;
     bottom: 5%;
     left: 5%;
   
-}
+} */
 
